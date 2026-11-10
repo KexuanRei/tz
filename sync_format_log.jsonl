@@ -1,0 +1,11 @@
+{"pk": "HL-B325K-6577E", "cell": "BT", "field": "color", "expected": "#000000", "actual": "#2E75B6"}
+{"pk": "HL-B181K-12424L", "cell": "BO", "field": "color", "expected": "#2e75b6", "actual": "#000000"}
+{"pk": "HL-B181K-12424L", "cell": "BO", "field": "background-color", "expected": "#92d050", "actual": "transparent"}
+{"pk": "HL-B181K-12433L", "cell": "BO", "field": "color", "expected": "#2e75b6", "actual": "#000000"}
+{"pk": "HL-B181K-12433L", "cell": "BO", "field": "background-color", "expected": "#92d050", "actual": "transparent"}
+{"pk": "HL-B181K-12592", "cell": "BO", "field": "color", "expected": "#2e75b6", "actual": "#000000"}
+{"pk": "HL-B181K-12592", "cell": "BO", "field": "background-color", "expected": "#92d050", "actual": "transparent"}
+{"pk": "HL-B181K-12425", "cell": "BR", "field": "color", "expected": "#2e75b6", "actual": "#000000"}
+{"pk": "HL-B181K-12425", "cell": "BU", "field": "color", "expected": "#2e75b6", "actual": "#000000"}
+{"pk": "HL-T157K-19999111C", "cell": "BW", "field": "font-size", "expected": "10pt", "actual": "11.0pt"}
+{"pk": "HL-T157K-19999111C", "cell": "BW", "field": "color", "expected": "#417ff9", "actual": "#000000"}

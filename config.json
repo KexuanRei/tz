@@ -1,0 +1,45 @@
+{
+  "source": {
+    "share_url": "https://www.kdocs.cn/l/caNZ7B1TlWTn",
+    "sheet_name": "明细",
+    "max_cells": 100000000,
+    "scan_range": "A5:CB20200",
+    "batch_rows": 1000,
+    "format_file": "DATA/表C.xlsx",
+    "format_sheet": "明细"
+  },
+  "local": {
+    "local_file": "C:\\Users\\Kexuan\\Documents\\ChatGPT\\FGO1.0\\新建 XLSX 工作表.xlsx",
+    "sheet_name": "Sheet1"
+  },
+  "upload": {
+    "share_url": "https://www.kdocs.cn/l/cgJZ22bnWUBP",
+    "sheet_name": "临时",
+    "scan_range": "A28079:CB48315"
+  },
+  "sync": {
+    "enabled": true,
+    "wait_seconds": 15,
+    "max_pastes": 0,
+    "primary_key_column": "D",
+    "data_start_row": 5,
+    "batch_rows": 1000,
+    "watch_enabled": true,
+    "watch_debounce": 1,
+    "skip_columns": "F",
+    "insert_enabled": true,
+    "start_cell": "A5",
+    "legacy_scan": false,
+    "sync_columns": "S:T,V,X,BA:BD"
+  },
+  "filter": {
+    "enabled": false,
+    "sheet_name": "系统配置",
+    "header_row": 4,
+    "local_file": "E:\\FUCK3.xlsx",
+    "mirror_sheet": "筛选镜像"
+  },
+  "monitor": {
+    "enabled": true
+  }
+}

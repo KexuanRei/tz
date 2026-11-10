@@ -1,0 +1,15 @@
+{
+  "pk": "HL-C6000-1824",
+  "primary_keys": [
+    "HL-C6000-1824"
+  ],
+  "source_row": 20229,
+  "source_end": 20229,
+  "target_row": 48303,
+  "target_end": 48303,
+  "status": "verified",
+  "next_source_row": 20230,
+  "source_range": "S20229:T20229",
+  "target_range": "S48303:T48303",
+  "skipped_columns": "A:C,E:R,U,W,Y:AZ,BE:CB"
+}
